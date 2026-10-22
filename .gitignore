@@ -1,0 +1,10 @@
+# Archivos pesados que NO subiremos
+dataset/
+trashnet.zip
+*.h5
+*.keras
+
+# Archivos temporales
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
